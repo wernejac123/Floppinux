@@ -49,7 +49,7 @@ kernel size 699K
 >linux system utils>mount, unmount
 >miscelleneous utils>less
 >Shells>ash
-	   >optimized for isze instead of speed
+	   >optimized for size instead of speed
            >alias support
            >help builtin
 
